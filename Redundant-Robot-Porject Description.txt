@@ -1,0 +1,3 @@
+My project is calculating the inverse kinamatics of a slightly redundant robot in order to manipulate its position (but not orientation) is 3D space.  
+
+The function should be called with three input variables (xd, yd, zd), where xd, yd, and zd are the desired positions in the x-, y-, and z-directions, respectively.
